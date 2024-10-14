@@ -1,4 +1,4 @@
-# 你好,我是小明! 👋
+# 你好,我是小松! 👋
 
 ## 关于我
 
@@ -20,8 +20,8 @@
 
 如果你想一起讨论编程,或者只是想聊聊天,随时欢迎联系我!
 
-- 📧 Email: xiaoming@example.com
-- 🐦 Twitter: @xiaoming_codes
+- 📧 Email: xiaosong@example.com
+- 🐦 Twitter: @xiaosong_codes
 - 💼 LinkedIn: linkedin.com/in/xiaoming-programmer
 
 记住,在编程的世界里,唯一的限制就是你的想象力!
